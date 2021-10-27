@@ -1,3 +1,7 @@
+# Contentful CSV Export app
+
+This app adds a new section on the entry editor sidebar, allowing you to export the current entry to a CSV file.
+
 This project was bootstrapped with [Create Contentful App](https://github.com/contentful/create-contentful-app).
 
 ## Available Scripts
