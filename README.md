@@ -2,7 +2,9 @@
 
 This app adds a new section on the entry editor sidebar, allowing you to export the current entry to a CSV file.
 
-![](Export to CSV.png)
+Once installed, the Sidebar app needs to be added to the desired Content Type via the Content Type Editor (Side Bar section).
+
+![](https://github.com/marianoa/csv-export/blob/master/Export%20to%20CSV.png?raw=true)
 
 This project was bootstrapped with [Create Contentful App](https://github.com/contentful/create-contentful-app).
 
